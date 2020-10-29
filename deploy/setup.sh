@@ -3,7 +3,7 @@
 set -e
 
 # TODO: Set to URL of git repo.
-PROJECT_GIT_URL='git@github.com:IrwantoCia/profile-service.git'
+PROJECT_GIT_URL='https://github.com/IrwantoCia/profile-service.git'
 
 PROJECT_BASE_PATH='/usr/local/apps/profile-service'
 
